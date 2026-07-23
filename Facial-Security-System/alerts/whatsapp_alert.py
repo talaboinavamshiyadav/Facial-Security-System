@@ -4,7 +4,7 @@ import os
 ACCOUNT_SID = "ACb2cda2396f6be7d2bf4a1cb02a87458"
 AUTH_TOKEN = "99c2672d444h8932294"
 FROM_WHATSAPP = "whatsapp:+14155238886"
-TO_WHATSAPP = "whatsapp:+916281085830"
+TO_WHATSAPP = "whatsapp:+91**********"
 
 client = Client(ACCOUNT_SID, AUTH_TOKEN)
 
